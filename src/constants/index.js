@@ -47,7 +47,7 @@ design.`,
 export const PROJECTS = [
   {
     title: "Portfolio Website",
-    link: "#",
+    link: "/",
     image: portfolio,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
