@@ -20,12 +20,21 @@ const Footer = () => {
         </a>{" "}
         , deployed with{" "}
         <a
-          href="https://vercel.com"
+          href="https://firebase.google.com"
+          target="_blank"
           className="text-purple-400 hover:text-slate-200"
         >
-          Vercel
+          Firebase
         </a>
-        . All text is set in the Inter google fonts.
+        . All text is set in the {""}
+        <a
+          href="https://fonts.google.com/specimen/Inter"
+          target="_blank"
+          className="text-purple-400 hover:text-slate-200"
+        >
+          Inter
+        </a>{" "}
+        google fonts.
       </p>
 
       {/* <p className="pt-10 flex flex-wrap gap-4">
