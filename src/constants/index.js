@@ -23,7 +23,7 @@ export const EXPERIENCES = [
   {
     year: "Okt - Des 2023",
     role: "Frontend Developer",
-    company: "Harisenin Final Project",
+    company: "Harisenin.com",
     description: `Developed a job vacancy website using ReactJS, TailwindCSS and Javascript with the team, Make the appearance from the landing page to the dashboard follow the team's Figma
 design.`,
     technologies: ["Tailwindcss", "Javascript", "React.js", "Vite"],
